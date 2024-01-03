@@ -1,0 +1,55 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+img{
+  max-width: 100%;
+}
+#top_menu{
+  margin-top: 20px;
+  list-style: none;
+  text-align: center;
+}
+#top_menu li{
+  display: inline-block;
+  margin: 0 10px;
+}
+#top_menu a{
+  background: tomato;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+}
+header{
+  background: papayawhip;
+  padding: 22px;
+}
+header img{
+  margin: 0 auto;
+  display: block;
+}
+#main_menu{
+  margin-top: 20px;
+  list-style: none;
+  text-align: center;
+}
+#main_menu li{
+  display: inline-block;
+  margin: 0 10px;
+}
+#main_menu a{
+  text-decoration: none;
+  background: white;
+  padding: 5px 10px;
+  color: black;
+  font-size: 22px;
+}
+#html{
+  background:pink;
+}
+textarea{
+  font-size: 15px;
+  color: red;
+  font-style: normal;
+}
